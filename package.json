@@ -4,7 +4,9 @@
   "description": "I am going to share how to setup Google Speech to Text v2 to transcribe audio to text",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "mic": "node examples/mic.js",
+    "base64": "node examples/base64.js"
   },
   "author": "",
   "license": "ISC",
